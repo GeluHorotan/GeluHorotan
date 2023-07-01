@@ -1,5 +1,5 @@
 <!-- ![LinkedIn_banner_2](https://user-images.githubusercontent.com/12242598/227998737-c409dd76-0e89-4825-be01-59d3025ead99.png) -->
-![github_banner3](https://github.com/GeluHorotan/GeluHorotan/blob/6cd1931b2f407ef41a9010e8432a6d2bb4b13cd7/banner.png)
+![github_banner3]()
 
 
 
