@@ -8,4 +8,6 @@
 
 ### Hi, I am Gelu Horotan! 👋
 
-As a detail-oriented and highly motivated front-end developer, I possess a strong skill set in React, Next JS, Typescript, Redux, and Tailwind CSS. With experience in creating dynamic websites and web applications, I am actively seeking exciting opportunities in front-end development. I am currently focused on expanding my knowledge in data structures and algorithms to further enhance my capabilities.
+Detail-oriented and highly motivated frontend developer with expertise in React, Next JS, Typescript, Redux, and Tailwind CSS. I am dedicated to constantly expanding my technical skills and knowledge by proactively learning new technologies such as Node.js, Express.js, MongoDB, Mongoose, Docker, and Socket.io. Committed to delivering timely and effective solutions that exceeds your expectations.
+
+Visit https://geluhorotan.com to see examples of my work.
