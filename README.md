@@ -4,7 +4,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-gelu--horotan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gelu-horotan/)](https://www.linkedin.com/in/gelu-horotan/)
-[![Gmail Badge](https://img.shields.io/badge/-horotangelu17-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:geluhorotan@geluhorotan.com)](mailto:geluhorotan@geluhorotan.com)
+[![Gmail Badge](https://img.shields.io/badge/-geluhorotan@geluhorotan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:geluhorotan@geluhorotan.com)](mailto:geluhorotan@geluhorotan.com)
 
 ### Hi, I am Gelu Horotan! 👋
 
