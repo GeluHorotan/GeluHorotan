@@ -1,3 +1,10 @@
+<!-- PROFILE BANNER
+Replace the placeholder image source below when the new banner is ready, then remove this comment.
+-->
+<p align="center">
+  <img src="https://placehold.co/1200x300/0d1117/ffffff?text=Banner+coming+soon" alt="Gelu Horotan profile banner" width="100%" />
+</p>
+
 <h1 align="center">Gelu Horotan</h1>
 
 <p align="center">
