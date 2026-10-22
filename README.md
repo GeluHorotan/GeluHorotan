@@ -1,31 +1,49 @@
-<!-- ![LinkedIn_banner_2](https://user-images.githubusercontent.com/12242598/227998737-c409dd76-0e89-4825-be01-59d3025ead99.png) -->
-![github_banner3](https://github.com/GeluHorotan/GeluHorotan/blob/7219454334d346061c5240be9d718696191083ea/Github%20Banner-100.jpg)
+<h1 align="center">Gelu Horotan</h1>
 
+<p align="center">
+  <strong>Full Stack Engineer</strong><br />
+  React · Next.js · TypeScript · JavaScript · Node.js · PostgreSQL
+</p>
 
+<p align="center">
+  <a href="https://geluhorotan.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/gelu-horotan/">LinkedIn</a> ·
+  <a href="mailto:gelu@geluhorotan.com">Email</a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-gelu--horotan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gelu-horotan/)](https://www.linkedin.com/in/gelu-horotan/)
-[![Gmail Badge](https://img.shields.io/badge/-geluhorotan@geluhorotan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:geluhorotan@geluhorotan.com)](mailto:geluhorotan@geluhorotan.com)
+---
 
-### Hi, I am Gelu Horotan! 👋
+I am a Full Stack Engineer with 4+ years of experience building and delivering production-ready web applications.
 
-⚛ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with expertise in 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁, 𝗥𝗲𝗱𝘂𝘅 and 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱.𝗰𝘀𝘀, consistently focused on expanding my technical skills. I offer 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 and 𝗲𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 solutions, with a focus on delivering 𝗵𝗶𝗴𝗵-𝗾𝘂𝗮𝗹𝗶𝘁𝘆 𝗰𝗼𝗱𝗲 and exceptional 𝘂𝘀𝗲𝗿 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀. I am highly motivated to move towards fullstack development.
+My work spans responsive user interfaces, interactive dashboards, SaaS workflows, backend services, data-processing pipelines, third-party integrations, deployment, and continuous iteration based on client and user feedback.
 
-✔️ Frontend:
-• React
-• Next.js
-• Typescript
-• Redux / Context API
-• Tailwind.css
-• GraphQL / RestAPI
+### Selected work
 
-✔️ Backend:
-• Node.js
-• Express.js
-• MongoDB
-• PostgreSQL
-• Docker
-• Socket.io
-• GraphQL / RestAPI
+- **ReddMatch** — Built a Reddit lead-discovery platform with product onboarding, lead filtering, semantic matching, background processing, and on-demand reply generation. Reduced storage per embedding by approximately 67%.
+- **Plainform** — Built a reusable Next.js SaaS foundation covering authentication, payments, database access, file storage, email, analytics, documentation, and automated code delivery, saving an estimated 60 hours of setup per project.
+- **HighSky** — Built an interactive PixiJS advertising board with real-time inventory updates, animated ownership transitions, Stripe payments, and concurrency-safe bidding.
+- **RippleFit** — Built a CMS-driven website with dynamic therapist and treatment content, verified Sanity webhooks, page revalidation, international SEO foundations, and third-party booking.
 
-🌐 𝗪𝗲𝗯𝘀𝗶𝘁𝗲: https://geluhorotan.com
-📧 𝗘𝗺𝗮𝗶𝗹: geluhorotan@geluhorotan.com
+More details and case studies are available at [geluhorotan.com/work](https://geluhorotan.com/work).
+
+### Technology stack
+
+**Frontend**  
+React, Next.js, TypeScript, JavaScript, Tailwind CSS, TanStack Query, Redux Toolkit, React Hook Form, Zod
+
+**Backend and data**  
+Node.js, REST APIs, GraphQL, PostgreSQL, Redis, MongoDB, Prisma, Supabase, Stripe
+
+**Cloud and delivery**  
+AWS S3, AWS CloudFront, Docker, GitHub Actions, Sentry, PostHog, Vercel
+
+**Development tools**  
+Git, GitHub, GitLab, Vite, OpenAI Codex, Claude Code
+
+### Availability
+
+Open to remote B2B opportunities as a **Full Stack Engineer** or **Frontend Engineer**.
+
+📍 Baia Mare, Romania  
+🌐 [geluhorotan.com](https://geluhorotan.com)  
+✉️ [gelu@geluhorotan.com](mailto:gelu@geluhorotan.com)
