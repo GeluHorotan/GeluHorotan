@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Gelu Horotan — Full Stack Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/GeluHorotan/GeluHorotan/main/assets/profile-banner.png" alt="Gelu Horotan — Full Stack Engineer" width="100%" />
 </p>
 
 <h1 align="center">Gelu Horotan</h1>
