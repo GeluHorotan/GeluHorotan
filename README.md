@@ -15,6 +15,7 @@ Replace the placeholder image source below when the new banner is ready, then re
 <p align="center">
   <a href="https://geluhorotan.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/gelu-horotan/">LinkedIn</a> ·
+  <a href="https://x.com/oxymoron365">X</a> ·
   <a href="mailto:gelu@geluhorotan.com">Email</a>
 </p>
 
