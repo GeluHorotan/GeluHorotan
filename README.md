@@ -27,12 +27,14 @@ I am a Full Stack Engineer with 4+ years of experience building and delivering p
 
 My work spans responsive user interfaces, interactive dashboards, SaaS workflows, backend services, data-processing pipelines, third-party integrations, deployment, and continuous iteration based on client and user feedback.
 
-### 🚀 Selected work
+### 🚀 Projects
 
 - **ReddMatch** — Built a Reddit lead-discovery platform with product onboarding, lead filtering, semantic matching, background processing, and on-demand reply generation. Reduced storage per embedding by approximately 67%.
 - **Plainform** — Built a reusable Next.js SaaS foundation covering authentication, payments, database access, file storage, email, analytics, documentation, and automated code delivery, saving an estimated 60 hours of setup per project.
 - **HighSky** — Built an interactive PixiJS advertising board with real-time inventory updates, animated ownership transitions, Stripe payments, and concurrency-safe bidding.
 - **RippleFit** — Built a CMS-driven website with dynamic therapist and treatment content, verified Sanity webhooks, page revalidation, international SEO foundations, and third-party booking.
+- **Synevo** — Developed a React administration dashboard where doctors could review patients and their required laboratory tests, using mocked data while the internal team completed the .NET API.
+- **Chronicles** — Built a multilingual blog MVP with Next.js, React, TypeScript, and Directus CMS, supporting English, German, and French content through GraphQL and locale-based routing.
 
 More details and case studies are available at [geluhorotan.com/work](https://geluhorotan.com/work).
 
