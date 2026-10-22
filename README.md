@@ -13,11 +13,13 @@
 
 ---
 
+### 👋 About me
+
 I am a Full Stack Engineer with 4+ years of experience building and delivering production-ready web applications.
 
 My work spans responsive user interfaces, interactive dashboards, SaaS workflows, backend services, data-processing pipelines, third-party integrations, deployment, and continuous iteration based on client and user feedback.
 
-### Selected work
+### 🚀 Selected work
 
 - **ReddMatch** — Built a Reddit lead-discovery platform with product onboarding, lead filtering, semantic matching, background processing, and on-demand reply generation. Reduced storage per embedding by approximately 67%.
 - **Plainform** — Built a reusable Next.js SaaS foundation covering authentication, payments, database access, file storage, email, analytics, documentation, and automated code delivery, saving an estimated 60 hours of setup per project.
@@ -26,21 +28,18 @@ My work spans responsive user interfaces, interactive dashboards, SaaS workflows
 
 More details and case studies are available at [geluhorotan.com/work](https://geluhorotan.com/work).
 
-### Technology stack
+### 🧰 Technology stack
 
-**Frontend**  
-React, Next.js, TypeScript, JavaScript, Tailwind CSS, TanStack Query, Redux Toolkit, React Hook Form, Zod
+- 🎨 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
+- 🔄 **State and data fetching:** TanStack Query · Redux Toolkit · RTK Query · Zustand · Context API
+- 🧩 **Forms and UI:** React Hook Form · Zod · shadcn/ui · Radix UI · Framer Motion
+- ⚙️ **Backend and APIs:** Node.js · REST APIs · GraphQL
+- 🗄️ **Data and services:** PostgreSQL · Redis · MongoDB · Prisma · Supabase · Stripe
+- ☁️ **Cloud and delivery:** AWS S3 · AWS CloudFront · Docker · GitHub Actions · Vercel
+- 📊 **Observability and analytics:** Sentry · PostHog
+- 🛠️ **Development tools:** Git · GitHub · GitLab · Vite · OpenAI Codex · Claude Code
 
-**Backend and data**  
-Node.js, REST APIs, GraphQL, PostgreSQL, Redis, MongoDB, Prisma, Supabase, Stripe
-
-**Cloud and delivery**  
-AWS S3, AWS CloudFront, Docker, GitHub Actions, Sentry, PostHog, Vercel
-
-**Development tools**  
-Git, GitHub, GitLab, Vite, OpenAI Codex, Claude Code
-
-### Availability
+### 🤝 Availability
 
 Open to remote B2B opportunities as a **Full Stack Engineer** or **Frontend Engineer**.
 
