@@ -37,14 +37,13 @@ More details and case studies are available at [geluhorotan.com/work](https://ge
 
 ### 🧰 Technology stack
 
-- 🎨 **Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
-- 🔄 **State and data fetching:** TanStack Query · Redux Toolkit · RTK Query · Zustand · Context API
-- 🧩 **Forms and UI:** React Hook Form · Zod · shadcn/ui · Radix UI · Framer Motion
-- ⚙️ **Backend and APIs:** Node.js · REST APIs · GraphQL
-- 🗄️ **Data and services:** PostgreSQL · Redis · MongoDB · Prisma · Supabase · Stripe
-- ☁️ **Cloud and delivery:** AWS S3 · AWS CloudFront · Docker · GitHub Actions · Vercel
-- 📊 **Observability and analytics:** Sentry · PostHog
-- 🛠️ **Development tools:** Git · GitHub · GitLab · Vite · OpenAI Codex · Claude Code
+- 🎨 **Frontend:** React · TypeScript · Next.js · JavaScript
+- 🧩 **UI, forms and styling:** Tailwind CSS · shadcn/ui · Radix UI · React Hook Form · Zod · Framer Motion
+- 🔄 **State and data fetching:** TanStack Query (React Query) · Redux Toolkit · RTK Query · Zustand · Context API
+- ⚙️ **Backend, APIs and data:** Node.js · REST APIs · GraphQL · PostgreSQL · Redis · MongoDB · Prisma · Supabase · Stripe
+- ☁️ **Cloud, DevOps and delivery:** AWS S3 · AWS CloudFront · Docker · GitHub Actions · Sentry · PostHog · Vercel
+- 🛠️ **Development and AI tools:** Git · GitHub · GitLab · Vite · OpenAI Codex · Claude Code
+- 🤝 **Collaboration:** Jira · Trello · Notion
 
 ### 🤝 Availability
 
